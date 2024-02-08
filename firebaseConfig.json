@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "makemytripclone-1e4d6",
+  "private_key_id": "71ff97ceee05a0080badfb032a28be9f13a2830e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqvTuypq4JH4Wg\nFh90iZyBGDNQi/MGbla/7gQ07H6yrl9NEmQcGCDuJJQxqpuhpXffFPRT1ZSr2ztJ\nFW0uU1f+lOPIp8pTqFVIOHC4gpFKiFO6N/tOQpIyau6Ss3ggDeI03jMjDZ5D8RHs\n0RzU4DqtMwcGdIivIdApB4VMpiMlCkHXJzOunXrs42nZPEsLNAamFXWjepF89i/3\nPPDiCIpznXiCkvN4PBmTZBVQwZZvNwCITY3Ltx6P2V7LosBnYNHVzfq2yjUWU53f\n6U3RxYDdT6RWzWSOKXOhAOVHM4VDMikjAYAl043TpiOtmc4dQU/DDtQiHyNpHvXb\niquD0T8PAgMBAAECggEAMDa4pWW5Dn12w/KLVmLHrZKyZuPmMCI3YAJr8K/5xSZF\nZiOz3lUX83ej23SUdyydMYMezY+p6G/DiYtB5guF9S+BNTfghAgscPTzK78/HP9r\nOVI2pm5ZD2Cv1wBUAyU4g/pdEWB2mTP5fli8ngZlu2QF71Y4BNB1Eij8BN2DXiFV\nTTirmEVzV8sFOmWiGHNhdKIIr37OJg09uM8tOBgtqB0XLUyEO+z4C+W8dC1UVeUe\nF8noD/gGHCOHfW+bKE7D1w7zQ5RGvzLdMOhmnePcxkmnEnWm8eRJOl0kw4KxkfTi\n4ODBFpoo4usQQzFzc5zse5peCGpNnJYQLCPCsfmnXQKBgQDlG1TWXTiwzGm5QGkp\nGvv2JXO1pFM1+fB7PdVEFQIQHeZ8VXmzGTVXlYfuwInZ651Ke5j1sZMP2tWMqZvw\n6MTKGTm0YvL9OWFxUYlAvsoQ2gec7vE3oDof49z8v0I/ZTO8ATE6cdrw16P8yXzx\nZR3wx0UU6cOXMa2fnNTGfPvonQKBgQC+x/QiJCqJjRgCCi5VYAgCjwLojfjyIlha\nrYKQ4BFcZzQCqlUz/5cCKif6aOE1/8QRYFGilRLFpV4u144xTUSxlJO+nmEPMALw\n7qiK3gJS9+liuPk54GHczQIq/UuNf8jzRhMrRSpiahzY2UkVjuBJY9BrY23JP8ug\nyb8oeRiImwKBgGGDToqmxthJSL52ccvzFkbgDe3D8T7KENcDrF/76RLfBxjocJIQ\nKqoKlP7DqGi+ZgYrsSDx4bwf0kC6eAsDp661KeBjNTUeVSEcKSULj4m4owDimnyo\nj9S+8XIKHbJJ6skcYM2VZDCaN8wCHlHITgQLbJXIIV2a4WFMKSwKSlXpAoGAYDu4\nV+hqVIwJSi4chRA1uiStUOUcZ/cPHl5bd/yuhS/Bun51EA+i+oKNO/DfeT+UhTdS\ntnH/0BbEVViB7ziMqA7MH+EAEIslUKbx+WpXPcazwQqRHLKkap42s7yk+bE1ihEU\n5kSzRoVEG9Yu2WMCm8JvhVvYKyW071wUwrOivnUCgYEAzLBLIrtvGYJyywwx2BBy\n2cPCmM2zadFSKAyC0Oi12aGfL0oCjwPbjWlEXu2aYTfa/5ise66seNMpwECY6vBC\nrz8iXJ/mhF+hW6FhtgFr/9O9D9r4iTvsem0FQ6JBIGWaIIVFQQH+Vj5JSMM3db6W\n0Cz1FBkfPKStb5jAMtN9KuA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-hr4v8@makemytripclone-1e4d6.iam.gserviceaccount.com",
+  "client_id": "113168376678760048876",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-hr4v8%40makemytripclone-1e4d6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

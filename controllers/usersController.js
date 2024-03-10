@@ -11,4 +11,10 @@ router.post('/login',async(req,res)=>{
     await usersService.loginUser(req,res);
  });
 
+ router.post('/flightSave',async(req,res)=>{
+   await usersService.flightListSave(req,res);
+});
+
+ 
+
 module.exports=router;

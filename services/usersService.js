@@ -36,6 +36,30 @@ class UsersService {
     }
   }
 
+  async flightListSave(req, res) {
+    try {
+      const data = req.body;
+ 
+
+      // if (!email || !password) {
+      //   return res.status(400).json({
+      //     error:
+      //       'Invalid parameters. Make sure to provide "email" and "password".',
+      //   });
+      // }
+
+      console.log("req body", req.body);
+      const usersCollection = admin.firestore().collection("Flights");
+      
+      await usersCollection.add({ data });
+      
+    res.status(200).json({ message: "Flight Saved Successfully" });
+    } catch (error) {
+      console.error("Error saving user:", error);
+      res.status(500).json({ error: "Internal server error" });
+    }
+  }
+
   //Login Service
   async loginUser(req, res) {
     try {
